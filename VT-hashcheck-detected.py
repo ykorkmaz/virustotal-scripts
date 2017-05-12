@@ -10,7 +10,7 @@ import threading
 import fnmatch
 
 # virustotal API key
-apikey = "9407c7d5ef5afd201404b4a88a1463d34c078152e82330b2297d3a0250c7435a"
+apikey = "****provide-key****"
 # virustotal report URL
 reporturl = "https://www.virustotal.com/vtapi/v2/file/report"
 # output file to write the VT check results
