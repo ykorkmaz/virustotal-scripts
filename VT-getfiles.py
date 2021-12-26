@@ -4,7 +4,7 @@ import sys
 import os
 
 # virustotal API key
-apikey = "***"
+apikey = "****provide-key****"
 # where to download files exists in virustotal
 downloadfolder = "downloads-createdfiles"
 # extension of files downloaded
